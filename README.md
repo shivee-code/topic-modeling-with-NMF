@@ -26,6 +26,9 @@ The goal of this project is to:
 - Pandas, NumPy
 - Matplotlib / Seaborn
 
+## 🚀 Install Dependencies
+`pip install -r requirements.txt`
+
 ---
 ## 🔍 Preprocessing Steps
 - Text normalization (lowercasing, punctuation removal)
